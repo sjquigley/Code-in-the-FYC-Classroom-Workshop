@@ -62,7 +62,7 @@ Setting up **Atom** for Mac/Windows and **CodePad** for Chromebooks
 1. Download "**Atom**" from [Atom.io](http://Atom.io)
 1. Add HTML Preview 
 	- from the dropdown menu, select **Atom>Preferences>Install**
-	- In the search bar type "**HTML Preview**." 
+	- In the search bar type "**aton-html-preview**." 
 	- Select the package built by "**HARMSK**." Click "**Install**."
 1. Adjust text wrapping 
 	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
@@ -71,7 +71,7 @@ Setting up **Atom** for Mac/Windows and **CodePad** for Chromebooks
 
 1. Download "**Atom**" from [Atom.io](http://Atom.io)
 1. Add HTML Preview - from the dropdown menu, select **File>Settings.** In the tab that loads select **+Install** 
-1. In the search bar type "**HTML Preview**." 
+1. In the search bar type "**aton-html-preview**." 
 1. Select the package built by "**HARMSK**." Click "**Install**."
 1. Adjust text wrapping - from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
 
