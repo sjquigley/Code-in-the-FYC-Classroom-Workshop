@@ -54,26 +54,29 @@ Over the course of the semester, you have used Pitt Fuego in various multimodal 
 
 ### Text Editors 
 
-Setting up **Atom** for Mac/Windows and **CodePad** for Chromebooks 
+Setting up **Visual Studio Code** for Mac/Windows and **CodePad** for Chromebooks 
 
 ### (Mac)
 
-
-1. Download "**Atom**" from [Atom.io](http://Atom.io)
+1. Download [Visual Studio Code](https://code.visualstudio.com/download)
 1. Add HTML Preview 
-	- from the dropdown menu, select **Atom>Preferences>Install**
-	- In the search bar type "**atom-html-preview**." 
-	- Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping 
-	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
+	- from the dropdown menu, select **Code>Preferences>Extensions** or locate the extensions icon on the left-hand tool bar.
+	- In the search bar type "**Live Preview**." 
+	- Click "**Install**."
+	- To peview .html file, click the preview icon in the upper left-hand corner.
+1. Adjust .html file text wrapping 
+	 -	from the dropdown menu, select **View Wrap** (this will force lines of code to conform to your viewer tab.)
 
 ### (Windows)
 
-1. Download "**Atom**" from [Atom.io](http://Atom.io)
-1. Add HTML Preview - from the dropdown menu, select **File>Settings.** In the tab that loads select **+Install** 
-1. In the search bar type "**atom-html-preview**." 
-1. Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping - from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
+1. Download [Visual Studio Code](https://code.visualstudio.com/download)
+1. Add HTML Preview 
+	- from the dropdown menu, select **Code>Preferences>Extensions** or locate the extensions icon on the left-hand tool bar.
+	- In the search bar type "**Live Preview**." 
+	- Click "**Install**."
+	- To peview .html file, click the preview icon in the upper left-hand corner.
+1. Adjust .html file text wrapping 
+	 -	from the dropdown menu, select **View Wrap** (this will force lines of code to conform to your viewer tab.)
 
 ### (Chromebook)
 
